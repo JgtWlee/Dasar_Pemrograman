@@ -1,0 +1,1 @@
+print("halo member member ku sayang")
